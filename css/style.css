@@ -114,7 +114,7 @@ body {
     margin-right: 0px;
   }
   
-  .tamanho-maximo-container {
+  .widht-max-container {
     max-width: 1024px;
     margin: 0 auto;
   }
@@ -206,4 +206,25 @@ body {
   .rodape-info a{
     text-decoration: none;
     color: #fff;
+  }
+
+  .titulo-galeria {
+    height: 70vh;
+  }
+  
+  .quartos-img{
+    width: 33%;
+    padding-bottom: 10px;
+  }
+  
+  .quarto-informacoes {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .quarto-informacoes li {
+    width: 25%;
+    text-align: left;
+    margin-top: 10px;
   }
