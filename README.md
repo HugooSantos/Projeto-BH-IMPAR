@@ -5,4 +5,4 @@
 <li>HTML</li>
 <li>CSS</li>
 </ul>
-<img src="./img/GifForGithub.gif"/>
+<img src="./img/GifForGithub.gif.gif"/>
